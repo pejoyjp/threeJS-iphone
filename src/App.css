@@ -1,0 +1,11 @@
+.App{
+  background-color: aqua;
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  flex-direction: column;
+  
+}
+.App .canvas{
+  height: 500px;
+}
